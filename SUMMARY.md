@@ -8,3 +8,4 @@
 * [API Reference](reference/api-reference/README.md)
   * [Pets](reference/api-reference/pets.md)
   * [Users](reference/api-reference/users.md)
+  * [TEST APIs](reference/api-reference/test-apis.md)
