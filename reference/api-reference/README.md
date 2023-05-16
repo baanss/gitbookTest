@@ -1,3 +1,7 @@
+---
+description: 사용되는 API 리스트입니다.
+---
+
 # API Reference
 
 Dive into the specifics of each API endpoint by checking out our complete documentation.
